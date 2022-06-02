@@ -21,3 +21,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+
+Meraki Resources:
+https://nolanwifi.com/2018/10/28/meraki-api-where-do-you-start/
+
+**Official**
+
+Webex:
+https://github.com/JardaMartan?tab=repositories
+
+**Official**
+https://developer.webex.com/
+https://developer.webex.com/docs
+
+
+
+
+DevNet Creations
+https://creations.devnetcloud.com/
