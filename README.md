@@ -32,6 +32,8 @@ https://nolanwifi.com/2018/10/28/meraki-api-where-do-you-start/
 
 Webex:
 https://github.com/JardaMartan?tab=repositories
+* **Connect GitHub to Webex**
+https://apphub.webex.com/applications/github-cloud-99112
 
 **Official**
 https://developer.webex.com/
