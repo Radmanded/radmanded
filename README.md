@@ -39,8 +39,41 @@ https://apphub.webex.com/applications/github-cloud-99112
 https://developer.webex.com/
 https://developer.webex.com/docs
 
-
-
-
-DevNet Creations
+### DevNet Creations
 https://creations.devnetcloud.com/
+
+### Web Design Resources
+
+https://github.com/nicolesaidy/awesome-web-design#icons
+
+### Documentation
+
+https://docusaurus.io/docs
+
+### Markdown Tutorials
+
+https://markmap.js.org/repl
+
+### READMEs
+
+https://github.com/matiassingers/awesome-readme
+
+https://github.com/matiassingers/awesome-readme
+
+### Marketing for Engineers
+
+https://github.com/goabstract/Marketing-for-Engineers
+
+### VIM
+
+https://github.com/mg979/vim-visual-multi
+https://learnvimscriptthehardway.stevelosh.com/chapters/06.html#exercises
+https://vim.fandom.com/wiki/Use_filter_commands_to_process_text
+
+### Z Shell
+
+https://zsh.sourceforge.io/
+
+### Mac Apps
+
+https://manytricks.com/moom/
