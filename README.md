@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![image](https://user-images.githubusercontent.com/9085386/172184871-48c45eb4-9023-491e-98fc-742b5ab863f9.png)
 
 **TD SYNNEX DevNet Repo ** is a ✨ _special_ ✨ repository assisting partners in their Digital Transformation.
 
@@ -8,27 +7,31 @@
 <a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> </a>
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-official.svg" alt="markdown"width="40" height="40"/> </a>
 <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> <b>
+<a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> 
 
+<br />
+
+<br />
 
 - 🔭 I’m currently working on a one stop repository for your DevNet needs 
 - 🌱 We are working on customizing networks using APIs 
 - 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
-- 📫 How to reach me: 
+- 📫 How to reach us: 
   - [Email::email:](rubend@synnex.com)
-  - [LinkedIn::
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  - [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
+<details>
+<summary>Meraki</summary>
 
-
-
-
+  
 Meraki Resources:
 https://nolanwifi.com/2018/10/28/meraki-api-where-do-you-start/
 
-**Official**
 
+</details>
+
+<details>
+<summary>Webex</summary>
 Webex:
 https://github.com/JardaMartan?tab=repositories
 * **Connect GitHub to Webex**
@@ -37,35 +40,23 @@ https://apphub.webex.com/applications/github-cloud-99112
 **Official**
 https://developer.webex.com/
 https://developer.webex.com/docs
-
-### DevNet Creations
-https://creations.devnetcloud.com/
   
-### dCloud
+  
+</details>
+
+
+<details>
+<summary>Labs</summary>
+  
+  ### dCloud
 https://dcloud-cms.cisco.com/help/view-documentation-for-dcloud-content
 
-### Web Design Resources
+  
+</details>
 
-https://github.com/nicolesaidy/awesome-web-design#icons
-
-### Documentation
-
-https://docusaurus.io/docs
-
-### Markdown Tutorials
-
-https://markmap.js.org/repl
-
-### READMEs
-
-https://github.com/matiassingers/awesome-readme
-
-https://github.com/matiassingers/awesome-readme
-
-### Marketing for Engineers
-
-https://github.com/goabstract/Marketing-for-Engineers
-
+<details>
+<summary>Software Resources</summary>
+  
 ### VIM
 
 https://github.com/mg979/vim-visual-multi
@@ -79,4 +70,47 @@ https://zsh.sourceforge.io/
 ### Mac Apps
 
 https://manytricks.com/moom/
+  
+</details>
+
+<details>
+<summary>Documentation</summary>
+ 
+https://docusaurus.io/docs
+  
+</details>
+
+<details>
+<summary>DevNet Resources</summary>
+### DevNet Creations
+https://creations.devnetcloud.com/  
+  
+  
+</details>
+
+<details>
+<summary>Business Resources</summary>
+
+### Web Design Resources
+https://github.com/nicolesaidy/awesome-web-design#icons
+  
+### Markdown Tutorials
+
+https://markmap.js.org/repl
+
+### READMEs
+
+https://github.com/matiassingers/awesome-readme
+
+https://github.com/matiassingers/awesome-readme
+
+### Marketing for Engineers
+
+https://github.com/goabstract/Marketing-for-Engineers
+  
+</details>
+
+
+
+
   
