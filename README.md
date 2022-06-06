@@ -21,9 +21,13 @@
   - [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
 <details>
-<summary>Meraki</summary>
+<summary><h2>Meraki</h2></summary>
   
 **Meraki Dashboard API**
+
+https://developer.cisco.com/meraki/api-latest/
+
+https://developer.cisco.com/meraki/api-v1/
 
 **Captive Portals**
 
@@ -31,21 +35,29 @@ https://github.com/meraki/js-splash
 
 https://developer.cisco.com/meraki/guides/captive-portal-solution-guide/
   
-Meraki Resources:
+**Blogs**
+
 https://nolanwifi.com/2018/10/28/meraki-api-where-do-you-start/
 
+https://andrecamillo.medium.com/getting-started-with-meraki-apis-7633a822a9da
 
 </details>
 
 <details>
-<summary>Webex</summary>
-Webex:
+<summary><h2>Webex</h2></summary>
+
+**Webex Github Repos**
+
 https://github.com/JardaMartan?tab=repositories
-* **Connect GitHub to Webex**
+
+**Connect GitHub to Webex**
+
 https://apphub.webex.com/applications/github-cloud-99112
 
 **Official**
+
 https://developer.webex.com/
+
 https://developer.webex.com/docs
   
   
@@ -53,65 +65,73 @@ https://developer.webex.com/docs
 
 
 <details>
-<summary>Labs</summary>
+<summary><h2>Labs and Learning Resources</h2></summary>
   
-  ### dCloud
+**Learning Modules**
+
+https://developer.cisco.com/learning/search/modules/
+
+**dCloud Labs**
+
 https://dcloud-cms.cisco.com/help/view-documentation-for-dcloud-content
 
   
 </details>
 
 <details>
-<summary>Software Resources</summary>
+<summary><h2>Software Resources</h2></summary>
   
-### VIM
+**VIM**
 
 https://github.com/mg979/vim-visual-multi
+
 https://learnvimscriptthehardway.stevelosh.com/chapters/06.html#exercises
+
 https://vim.fandom.com/wiki/Use_filter_commands_to_process_text
 
-### Z Shell
+**Z Shell**
 
 https://zsh.sourceforge.io/
 
-### Mac Apps
+**Mac Apps**
 
 https://manytricks.com/moom/
   
 </details>
 
 <details>
-<summary>Documentation</summary>
+<summary><h2>Documentation</h2></summary>
  
 https://docusaurus.io/docs
   
 </details>
 
 <details>
-<summary>DevNet Resources</summary>
-### DevNet Creations
+<summary><h2>DevNet Resources</h2></summary>
+
+**DevNet Creations**
 https://creations.devnetcloud.com/  
   
   
 </details>
 
 <details>
-<summary>Business Resources</summary>
+<summary><h2>Business Resources</h2></summary>
 
-### Web Design Resources
+**Web Design Resources**
+
 https://github.com/nicolesaidy/awesome-web-design#icons
   
-### Markdown Tutorials
+**Markdown Tutorials**
 
 https://markmap.js.org/repl
 
-### READMEs
+**READMEs**
 
 https://github.com/matiassingers/awesome-readme
 
-https://github.com/matiassingers/awesome-readme
 
-### Marketing for Engineers
+**Marketing for Engineers**
 
 https://github.com/goabstract/Marketing-for-Engineers
   
