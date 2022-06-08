@@ -94,8 +94,23 @@ https://dcloud-cms.cisco.com/help/view-documentation-for-dcloud-content
   
 </details>
 
+
 <details>
 <summary><h2> :information_source: Software Resources</h2></summary>
+
+**NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)**
+  
+https://developer.cisco.com/codeexchange/github/repo/napalm-automation/napalm  
+  
+https://napalm.readthedocs.io/en/latest/
+  
+https://github.com/napalm-automation/napalm
+  
+https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/DEVNET-1599.pdf
+  
+https://codingnetworks.blog/napalm-network-automation-python-working-with-cisco-ios-and-ios-xr/
+  
+https://ultraconfig.com.au/blog/introduction-to-napalm-network-automation-on-cisco/
   
 **VIM**
 
