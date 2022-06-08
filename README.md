@@ -23,12 +23,27 @@
 <details>
 <summary><h2> :information_source: Meraki</h2></summary>
   
+**Meraki Developer Hub**
+  
+https://developer.cisco.com/meraki/meraki-platform/
+  
+https://developer.cisco.com/meraki/
+  
+Code Exchange
+  
 **Meraki Dashboard API**
 
 https://developer.cisco.com/meraki/api-latest/
 
 https://developer.cisco.com/meraki/api-v1/
 
+**Meraki APIs with Node-RED**
+  
+https://developer.cisco.com/meraki/build/node-red-getting-started-with-cisco-meraki-apis/
+
+  
+https://nodered.org/docs/
+  
 **Captive Portals**
 
 https://github.com/meraki/js-splash
@@ -37,7 +52,7 @@ https://developer.cisco.com/meraki/guides/captive-portal-solution-guide/
   
 **Learning Labs**
 
-https://github.com/CiscoDevNet/meraki-code:q
+https://github.com/CiscoDevNet/meraki-code
 
 
 **Blogs**
