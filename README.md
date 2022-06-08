@@ -153,7 +153,12 @@ https://github.com/goabstract/Marketing-for-Engineers
   
 </details>
 
+<details>
+<summary><h2> :information_source: Podcast </h2></summary>
 
+https://packetpushers.net/podcast/
+
+</details>
 
 
   
