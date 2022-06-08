@@ -21,7 +21,7 @@
   - [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
 <details>
-<summary><h2>Meraki</h2></summary>
+<summary><h2> :information_source: Meraki</h2></summary>
   
 **Meraki Dashboard API**
 
@@ -44,7 +44,7 @@ https://andrecamillo.medium.com/getting-started-with-meraki-apis-7633a822a9da
 </details>
 
 <details>
-<summary><h2>Webex</h2></summary>
+<summary><h2> :information_source: Webex</h2></summary>
 
 **Webex Github Repos**
 
@@ -65,7 +65,7 @@ https://developer.webex.com/docs
 
 
 <details>
-<summary><h2>Labs and Learning Resources</h2></summary>
+<summary><h2> :information_source: Labs and Learning Resources</h2></summary>
   
 **Learning Modules**
 
@@ -79,7 +79,7 @@ https://dcloud-cms.cisco.com/help/view-documentation-for-dcloud-content
 </details>
 
 <details>
-<summary><h2>Software Resources</h2></summary>
+<summary><h2> :information_source: Software Resources</h2></summary>
   
 **VIM**
 
@@ -100,14 +100,14 @@ https://manytricks.com/moom/
 </details>
 
 <details>
-<summary><h2>Documentation</h2></summary>
+<summary><h2> :information_source: Documentation</h2></summary>
  
 https://docusaurus.io/docs
   
 </details>
 
 <details>
-<summary><h2>DevNet Resources</h2></summary>
+<summary><h2> :information_source: DevNet Resources</h2></summary>
 
 **DevNet Creations**
 https://creations.devnetcloud.com/  
@@ -116,7 +116,7 @@ https://creations.devnetcloud.com/
 </details>
 
 <details>
-<summary><h2>Business Resources</h2></summary>
+<summary><h2> :information_source: Business Resources</h2></summary>
 
 **Web Design Resources**
 
