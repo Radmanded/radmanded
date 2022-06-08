@@ -50,6 +50,12 @@ https://andrecamillo.medium.com/getting-started-with-meraki-apis-7633a822a9da
 
 <details>
 <summary><h2> :information_source: Webex</h2></summary>
+  
+**Official**
+
+https://developer.webex.com/
+
+https://developer.webex.com/docs
 
 **Webex Github Repos**
 
@@ -58,13 +64,18 @@ https://github.com/JardaMartan?tab=repositories
 **Connect GitHub to Webex**
 
 https://apphub.webex.com/applications/github-cloud-99112
-
-**Official**
-
-https://developer.webex.com/
-
-https://developer.webex.com/docs
   
+**Webex Assistance Skills**
+  
+https://developer-portal-intb.ciscospark.com/docs/api/guides/webex-assistant-skills-guide
+  
+https://developer-portal-intb.ciscospark.com/docs/api/guides/webex-assistant-skills-reference-guide#response-payload
+  
+**Natural Language Processor Bot Integration**
+
+Install - https://www.mindmeld.com/docs/userguide/getting_started.html
+Integrate - https://www.mindmeld.com/docs/integrations/webex_teams.html
+Food Ordering Project - https://www.mindmeld.com/docs/blueprints/food_ordering.html
   
 </details>
 
