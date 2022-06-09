@@ -175,6 +175,18 @@ https://docusaurus.io/docs
 </details>
 
 <details>
+<summary><h2> :information_source: Automate Employee Onboarding</h2></summary>
+
+https://www.youtube.com/watch?v=INGnD_586jwocs
+  
+**GitHub Repo**
+  
+https://github.com/Stienvdh/new-employee-onboarding
+  
+</details>
+
+
+<details>
 <summary><h2> :information_source: DevNet Resources</h2></summary>
 
 **DevNet Creations**
