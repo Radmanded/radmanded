@@ -23,7 +23,7 @@
 <details>
 <summary><h2> :information_source: Meraki</h2></summary>
   
-**Meraki Dashboard API**
+### Meraki Dashboard API
 
 https://developer.cisco.com/meraki/api-latest/
 
