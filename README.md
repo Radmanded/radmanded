@@ -42,7 +42,8 @@ https://developer.cisco.com/meraki/
 https://developer.cisco.com/meraki/api-latest/
 
 https://developer.cisco.com/meraki/api-v1/
-
+  
+  
 **Integrations**
 
   
@@ -50,14 +51,17 @@ https://developer.cisco.com/meraki/api-v1/
   
 https://developer.cisco.com/meraki/build/meraki-network-creator-with-servicenow-and-angular/
   
+**Automation Exchange**
 
+![CleanShot-Brave Browser202206-08 at 17 37 02](https://user-images.githubusercontent.com/9085386/172729069-e608dcbb-b623-438e-bd59-a5f0c71676d2.png)
+
+https://developer.cisco.com/network-automation/listing/
   
   
 **Meraki APIs with Node-RED**
   
 https://developer.cisco.com/meraki/build/node-red-getting-started-with-cisco-meraki-apis/
 
-  
 https://nodered.org/docs/
   
 **Captive Portals**
@@ -66,11 +70,13 @@ https://github.com/meraki/js-splash
 
 https://developer.cisco.com/meraki/guides/captive-portal-solution-guide/
   
-**Learning Labs**
+**Learning Labs + Github Repositories**
 
 https://github.com/CiscoDevNet/meraki-code
 
-
+https://github.com/meraki/dashboard-api-python/
+  
+  
 **Blogs**
 
 https://nolanwifi.com/2018/10/28/meraki-api-where-do-you-start/
