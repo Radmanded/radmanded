@@ -23,23 +23,64 @@
 <details>
 <summary><h2> :information_source: Meraki</h2></summary>
   
+<<<<<<< HEAD
 ### Meraki Dashboard API
+=======
+**Meraki Developer Hub**
+  
+https://developer.cisco.com/meraki/meraki-platform/
+
+![CleanShot-Brave Browser202206-08 at 14 37 18](https://user-images.githubusercontent.com/9085386/172702586-b2d450c7-aa08-4633-bc65-4cfaac297138.png)
+
+https://developer.cisco.com/meraki/
+
+![CleanShot-Brave Browser202206-08 at 14 39 12](https://user-images.githubusercontent.com/9085386/172702908-d4c40182-0140-45eb-b8d6-ddeac3dabafb.png)
+
+**Code Exchange**
+  
+**Meraki Dashboard API**
+>>>>>>> 84bceeeee789f8eb59436ffc88eff2c27c78204c
+
+![CleanShot-Brave Browser202206-08 at 14 42 14](https://user-images.githubusercontent.com/9085386/172703388-a1c353b6-8ef4-4515-8ddf-6d2a8ca7d61b.png)
 
 https://developer.cisco.com/meraki/api-latest/
 
 https://developer.cisco.com/meraki/api-v1/
+  
+  
+**Integrations**
 
+  
+![CleanShot-Brave Browser202206-08 at 14 47 49](https://user-images.githubusercontent.com/9085386/172704358-8a0ff5a6-7ae1-42fb-af15-f7f53e14f377.png)
+  
+https://developer.cisco.com/meraki/build/meraki-network-creator-with-servicenow-and-angular/
+  
+**Automation Exchange**
+
+![CleanShot-Brave Browser202206-08 at 17 37 02](https://user-images.githubusercontent.com/9085386/172729069-e608dcbb-b623-438e-bd59-a5f0c71676d2.png)
+
+https://developer.cisco.com/network-automation/listing/
+  
+  
+**Meraki APIs with Node-RED**
+  
+https://developer.cisco.com/meraki/build/node-red-getting-started-with-cisco-meraki-apis/
+
+https://nodered.org/docs/
+  
 **Captive Portals**
 
 https://github.com/meraki/js-splash
 
 https://developer.cisco.com/meraki/guides/captive-portal-solution-guide/
   
-**Learning Labs**
+**Learning Labs + Github Repositories**
 
-https://github.com/CiscoDevNet/meraki-code:q
+https://github.com/CiscoDevNet/meraki-code
 
-
+https://github.com/meraki/dashboard-api-python/
+  
+  
 **Blogs**
 
 https://nolanwifi.com/2018/10/28/meraki-api-where-do-you-start/
@@ -50,6 +91,12 @@ https://andrecamillo.medium.com/getting-started-with-meraki-apis-7633a822a9da
 
 <details>
 <summary><h2> :information_source: Webex</h2></summary>
+  
+**Official**
+
+https://developer.webex.com/
+
+https://developer.webex.com/docs
 
 **Webex Github Repos**
 
@@ -58,13 +105,18 @@ https://github.com/JardaMartan?tab=repositories
 **Connect GitHub to Webex**
 
 https://apphub.webex.com/applications/github-cloud-99112
-
-**Official**
-
-https://developer.webex.com/
-
-https://developer.webex.com/docs
   
+**Webex Assistance Skills**
+  
+https://developer-portal-intb.ciscospark.com/docs/api/guides/webex-assistant-skills-guide
+  
+https://developer-portal-intb.ciscospark.com/docs/api/guides/webex-assistant-skills-reference-guide#response-payload
+  
+**Natural Language Processor Bot Integration**
+
+Install - https://www.mindmeld.com/docs/userguide/getting_started.html
+Integrate - https://www.mindmeld.com/docs/integrations/webex_teams.html
+Food Ordering Project - https://www.mindmeld.com/docs/blueprints/food_ordering.html
   
 </details>
 
@@ -83,8 +135,23 @@ https://dcloud-cms.cisco.com/help/view-documentation-for-dcloud-content
   
 </details>
 
+
 <details>
 <summary><h2> :information_source: Software Resources</h2></summary>
+
+**NAPALM (Network Automation and Programmability Abstraction Layer with Multivendor support)**
+  
+https://developer.cisco.com/codeexchange/github/repo/napalm-automation/napalm  
+  
+https://napalm.readthedocs.io/en/latest/
+  
+https://github.com/napalm-automation/napalm
+  
+https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2019/pdf/DEVNET-1599.pdf
+  
+https://codingnetworks.blog/napalm-network-automation-python-working-with-cisco-ios-and-ios-xr/
+  
+https://ultraconfig.com.au/blog/introduction-to-napalm-network-automation-on-cisco/
   
 **VIM**
 
@@ -110,6 +177,18 @@ https://manytricks.com/moom/
 https://docusaurus.io/docs
   
 </details>
+
+<details>
+<summary><h2> :information_source: Automate Employee Onboarding</h2></summary>
+
+https://www.youtube.com/watch?v=INGnD_586jwocs
+  
+**GitHub Repo**
+  
+https://github.com/Stienvdh/new-employee-onboarding
+  
+</details>
+
 
 <details>
 <summary><h2> :information_source: DevNet Resources</h2></summary>
@@ -142,7 +221,12 @@ https://github.com/goabstract/Marketing-for-Engineers
   
 </details>
 
+<details>
+<summary><h2> :information_source: Podcast </h2></summary>
 
+https://packetpushers.net/podcast/
+
+</details>
 
 
   
