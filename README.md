@@ -232,5 +232,11 @@ https://packetpushers.net/podcast/
 
 </details>
 
+<details>
+<summary><h2> :information_source: Blogs </h2></summary>
+
+https://techblog.cisco.com/
+
+</details>
 
   
