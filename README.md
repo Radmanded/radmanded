@@ -21,6 +21,15 @@
   - [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
 <details>
+<summary><h2> :information_source: Digital Transformation</h2></summary>
+ 
+### IDC/Cisco Assessment
+  
+https://www.sb-maturityassessment.com/
+  
+</details>
+
+<details>
 <summary><h2> :information_source: Meraki</h2></summary>
   
 ### Meraki Developer Hub
