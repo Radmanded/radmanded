@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/9085386/172184871-48c45eb4-9023-491e-98fc-742b5ab863f9.png)
 
-**TD SYNNEX DevNet Repo** is a ✨ _special_ ✨ repository assisting partners in their Digital Transformation.
+**TD SYNNEX DevNet Repo** is a repository assisting partners in their Digital Transformation.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
@@ -13,12 +13,12 @@
 
 <br />
 
-- 🔭 I’m currently working on a one stop repository for your DevNet needs 
-- 🌱 We are working on customizing networks using APIs 
-- 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
-- 📫 How to reach us: 
-  - [Email::email:](rubend@synnex.com)
-  - [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
+- ### I’m currently working on a one stop repository for your DevNet needs 
+-  ### We are working on customizing networks using APIs 
+- ### 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
+- ### 📫 How to reach us: 
+  - ### [Email::email:](rubend@synnex.com)
+  - ### [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
 <details>
 <summary><h2> :information_source: Digital Transformation</h2></summary>
@@ -26,6 +26,15 @@
 ### IDC/Cisco Assessment
   
 https://www.sb-maturityassessment.com/
+  
+</details>
+
+<details>
+<summary><h2> :information_source: Black Belt</h2></summary>
+ 
+### DevNet Black Belt
+  
+https://salesconnect.cisco.com/c/r/salesconnect/index.html#/program/PAGE-10842
   
 </details>
 
