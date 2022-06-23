@@ -27,6 +27,10 @@
   
 https://www.sb-maturityassessment.com/
   
+partner programs
+  
+https://developeradvisorportal.cisco.com/site/index.gsp
+  
 </details>
 
 <details>
