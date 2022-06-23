@@ -277,6 +277,10 @@ https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits.html?dtid=odi
 ### Partner Stories
 
 https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/partner-case-studies.html?filter_type_of_partner=Independent%20Software%20Vendor
+  
+### Partner YouTube
+  
+https://www.youtube.com/playlist?list=PLF390A3A7152E5BF4
 
 </details>  
   
