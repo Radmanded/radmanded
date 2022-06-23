@@ -267,6 +267,9 @@ https://techblog.cisco.com/
 
 </details>
 
+## Ultimate Cheat Sheet
+
+https://cheat.sh/
 
 # Linux
 
