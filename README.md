@@ -270,6 +270,10 @@ https://techblog.cisco.com/
 <details>
 <summary><h2> :information_source: Partner Stories </h2></summary>
   
+### Partner Benefits
+  
+https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits.html?dtid=odiprc001129&ccid=cc000864
+  
 ### Partner Stories
 
 https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/partner-case-studies.html?filter_type_of_partner=Independent%20Software%20Vendor
