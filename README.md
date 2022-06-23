@@ -27,10 +27,6 @@
   
 https://www.sb-maturityassessment.com/
   
-partner programs
-  
-https://developeradvisorportal.cisco.com/site/index.gsp
-  
 </details>
 
 <details>
@@ -39,6 +35,16 @@ https://developeradvisorportal.cisco.com/site/index.gsp
 ### DevNet Black Belt
   
 https://salesconnect.cisco.com/c/r/salesconnect/index.html#/program/PAGE-10842
+  
+### Digital Co-Sale
+  
+https://salesconnect.cisco.com/#/program/PAGE-18283
+  
+### Cisco Partnering Journey - Co-Sell
+  
+https://ciscopartnerjourneys.com/en/us/journeys/co-sell
+  
+https://ciscopartnerjourneys.com/en/us/login
   
 </details>
 
@@ -260,6 +266,20 @@ https://packetpushers.net/podcast/
 https://techblog.cisco.com/
 
 </details>
+
+
+# Linux
+
+## Also see
+{: .-one-column}
+
+* [Bash-hackers wiki](http://wiki.bash-hackers.org/) _(bash-hackers.org)_
+* [Shell vars](http://wiki.bash-hackers.org/syntax/shellvars) _(bash-hackers.org)_
+* [Learn bash in y minutes](https://learnxinyminutes.com/docs/bash/) _(learnxinyminutes.com)_
+* [Bash Guide](http://mywiki.wooledge.org/BashGuide) _(mywiki.wooledge.org)_
+* [ShellCheck](https://www.shellcheck.net/) _(shellcheck.net)_
+
+### Switch Config Cisco
 
 https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networking/how-to-setup-network-switch.html
 
