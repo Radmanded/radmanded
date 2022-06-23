@@ -267,6 +267,10 @@ https://techblog.cisco.com/
 
 </details>
 
+# APIs
+
+https://www.ipify.org/
+
 ## Ultimate Cheat Sheet
 
 https://cheat.sh/
