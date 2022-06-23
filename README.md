@@ -267,6 +267,15 @@ https://techblog.cisco.com/
 
 </details>
 
+<details>
+<summary><h2> :information_source: Partner Stories </h2></summary>
+  
+### Partner Stories
+
+https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/partner-case-studies.html?filter_type_of_partner=Independent%20Software%20Vendor
+
+</details>  
+  
 # APIs
 
 https://www.ipify.org/
