@@ -277,6 +277,10 @@ https://cheat.sh/
 
 # Linux
 
+### Transfer Files - bash
+
+https://transfer.sh/#
+
 ## Also see
 {: .-one-column}
 
