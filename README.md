@@ -31,6 +31,10 @@
 
 https://developer.cisco.com/site/coi/
   
+**Programmability Blitz- Partner Development Program**
+  
+https://salesconnect.cisco.com/#/program/PAGE-14323
+  
 </details>  
   
 <details>
@@ -178,6 +182,16 @@ https://dcloud-cms.cisco.com/help/view-documentation-for-dcloud-content
 <details>
 <summary><h2> :information_source: Software Resources</h2></summary>
   
+### GitHub Repo
+  
+https://github.com/Stienvdh/new-employee-onboarding
+  
+Git Tutorial: https://www.youtube.com/watch?v=8JJ101D3knE
+Creating an SSH key: https://docs.github.com/en/authentication/connecting-to-github-with-ssh
+LastPass: https://www.lastpass.com/
+Docker Tutorial: https://www.youtube.com/watch?v=pTFZFxd4hOI
+JSON and Python Tutorial: https://www.youtube.com/watch?v=oQfNYqz8pLs
+  
 ### Jinja2
   
 https://ttl255.com/jinja2-tutorial-part-1-introduction-and-variable-substitution/
@@ -227,10 +241,7 @@ https://docusaurus.io/docs
 <summary><h2> :information_source: Automate Employee Onboarding</h2></summary>
 
 https://www.youtube.com/watch?v=INGnD_586jwocs
-  
-### GitHub Repo
-  
-https://github.com/Stienvdh/new-employee-onboarding
+ 
   
 </details>
 
