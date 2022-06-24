@@ -20,6 +20,19 @@
   - ### [Email::email:](rubend@synnex.com)
   - ### [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
+
+<details>
+<summary><h2> :information_source: Certifications</h2></summary>
+
+</details>
+
+<details>
+<summary><h2> :information_source: Partner Assistance Programs</h2></summary>
+
+https://developer.cisco.com/site/coi/
+  
+</details>  
+  
 <details>
 <summary><h2> :information_source: Digital Transformation</h2></summary>
  
@@ -323,3 +336,12 @@ Cisco & Google Dev Site
 https://developer.cisco.com/site/google/
 
 
+## Cisco News
+
+https://transform.cisco.com/news/opsadmin?ccid=cc001279&dtid=odiprc001089
+
+**Automated Cisco New Feed**
+
+https://www.cisco.com/c/en/us/partners/partner-with-cisco/notifications.html
+
+https://transform.cisco.com/news/subscribe?ccid=cc001279&dtid=odiprc001089
