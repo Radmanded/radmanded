@@ -274,6 +274,14 @@ https://techblog.cisco.com/
   
 https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits.html?dtid=odiprc001129&ccid=cc000864
   
+https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits/opportunities-across-the-lifecycle.html?dtid=odiprc001129&ccid=cc000864
+  
+**Build on Cisco**
+
+https://ciscopartnerjourneys.com/en/us/login
+  
+https://ciscopartnerjourneys.com/en/us/journeys/build-solutions
+  
 ### Partner Stories
 
 https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/partner-case-studies.html?filter_type_of_partner=Independent%20Software%20Vendor
@@ -313,3 +321,5 @@ https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networkin
 
 Cisco & Google Dev Site
 https://developer.cisco.com/site/google/
+
+
