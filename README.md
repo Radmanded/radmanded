@@ -362,3 +362,19 @@ https://transform.cisco.com/news/opsadmin?ccid=cc001279&dtid=odiprc001089
 https://www.cisco.com/c/en/us/partners/partner-with-cisco/notifications.html
 
 https://transform.cisco.com/news/subscribe?ccid=cc001279&dtid=odiprc001089
+
+**Connecting to Console from Mac**
+
+Step 2 Connect the OS X USB port to the router.
+
+Step 3 Enter the following commands to find the OS X USB port number:
+
+macbook:user$ cd /dev
+macbook:user$ ls -ltr /dev/*usb*
+crw-rw-rw- 1 root wheel 9, 66 Apr 1 16:46 tty.usbmodem1a21
+DT-macbook:dev user$
+Step 4 Connect to the USB port with the following command followed by the router USB port speed:
+
+macbook:user$ screen /dev/tty.usbmodem1a21 9600
+To Disconnect the OS X USB Console from the Terminal Window
+Enter Ctrl+A followed by Ctrl+\
