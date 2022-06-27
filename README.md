@@ -169,7 +169,30 @@ Food Ordering Project - https://www.mindmeld.com/docs/blueprints/food_ordering.h
   
 </details>
 
-
+<details>
+<summary><h2> :information_source: IOS-XE </h2></summary>
+  
+### ZTP
+  
+**How to**
+  
+https://blogs.cisco.com/developer/device-provisioning-with-ios-xe-zero-touch-provisioning
+  
+https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2020/pdf/DEVNET-2323.pdf
+  
+**GitHub**
+https://www.ciscolive.com/c/dam/r/ciscolive/emea/docs/2020/pdf/DEVNET-2323.pdf
+  
+  
+https://github.com/jeremycohoe/IOSXE-Zero-Touch-Provisioning
+  
+**Python2 Version for Educational Purpose**  
+https://github.com/CiscoSE/IOS-XE-ZTP
+https://github.com/tdorssers/ztp
+  
+ </details>
+ 
+ 
 <details>
 <summary><h2> :information_source: Labs and Learning Resources</h2></summary>
   
