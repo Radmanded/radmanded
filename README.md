@@ -24,6 +24,11 @@
 <details>
 <summary><h2> :information_source: Certifications</h2></summary>
 
+
+
+
+
+DCAUTO Exam
 </details>
 
 <details>
