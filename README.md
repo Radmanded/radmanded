@@ -46,7 +46,11 @@ https://salesconnect.cisco.com/#/program/PAGE-14323
   
 <details>
 <summary><h2> :information_source: Digital Transformation</h2></summary>
- 
+
+**API Article**
+
+https://www.cisco.com/c/en/us/solutions/cisco-on-cisco/apis-for-cisco-it.html
+
 **API Security**
   
 https://blogs.cisco.com/developer/container_scanning_01?ccid=kubeconeu22&dtid=sitepersona01&oid=awareness-fy22-q4-0000-softwaredev-ww
