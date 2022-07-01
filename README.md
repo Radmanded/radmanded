@@ -20,6 +20,7 @@
   - ### [Email::email:](rubend@synnex.com)
   - ### [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
+https://salesconnect.cisco.com/#/program/HUB-15740
 
 <details>
 <summary><h2> :information_source: Certifications</h2></summary>
