@@ -23,11 +23,15 @@
 https://salesconnect.cisco.com/#/program/HUB-15740
 
 <details>
-<summary><h2> :information_source: Certifications</h2></summary>
+<summary><h2> :information_source: Certifications & Specializations</h2></summary>
 
 
 
+**Specialization Instructions**
+  
+[devnet-specialization-requirements.pdf](https://github.com/Radmanded/radmanded/files/9030687/devnet-specialization-requirements.pdf)
 
+[devnet-specialization-customer-reference-template.pdf](https://github.com/Radmanded/radmanded/files/9030692/devnet-specialization-customer-reference-template.pdf)
 
 DCAUTO Exam
 </details>
