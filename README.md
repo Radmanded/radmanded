@@ -78,6 +78,10 @@ https://salesconnect.cisco.com/c/r/salesconnect/index.html#/program/PAGE-10842
 https://salesconnect.cisco.com/#/program/PAGE-18283
   
 ### Cisco Partnering Journey - Co-Sell
+
+![CleanShot-Google Chrome202207-06 at 09 53 14](https://user-images.githubusercontent.com/9085386/177579847-0c192049-e2ca-415b-b1ce-04c8cf8cdc70.png)
+
+Different options to choose your journey
   
 https://ciscopartnerjourneys.com/en/us/journeys/co-sell
   
