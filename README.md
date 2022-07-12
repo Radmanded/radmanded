@@ -41,6 +41,10 @@ DCAUTO Exam
   
 **Ultimate Partner Resource**
 https://salesconnect.cloudapps.cisco.com/#/program/PAGE-17753
+  
+  
+Partner Journey Notes
+gomsp@cisco.com 
 
 https://developer.cisco.com/site/coi/
   
