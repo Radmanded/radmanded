@@ -38,6 +38,9 @@ DCAUTO Exam
 
 <details>
 <summary><h2> :information_source: Partner Assistance Programs</h2></summary>
+  
+**Ultimate Partner Resource**
+https://salesconnect.cloudapps.cisco.com/#/program/PAGE-17753
 
 https://developer.cisco.com/site/coi/
   
