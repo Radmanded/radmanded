@@ -1,17 +1,20 @@
 ![image](https://user-images.githubusercontent.com/9085386/172184871-48c45eb4-9023-491e-98fc-742b5ab863f9.png)
 
-**TD SYNNEX DevNet Repo** is a repository assisting partners in their Digital Transformation.
+## TD SYNNEX DevNet Repo is a repository assisting partners in their Digital Transformation.
 
 ## Technologies⚙️
 
 ### Operating Systems 🖥
-
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 
 
 ### Languages✍🏼
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> 
+</p>
 <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/commonmark/commonmark-official.svg" alt="markdown"width="40" height="40"/> </a>
 <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> </a>
 <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm" width="40" height="40"/> </a> 
@@ -37,13 +40,11 @@
 <p align="left">  
 <a href="https://www.linkedin.com/in/ruben-dedman/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/c/RubenDedman" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
-<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="Astro08" height="35" width="35"/></a>
 <a href="https://www.instagram.com/codes.astro/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
-- ### 📫 How to reach us: 
-  - ### [Email::email:](rubend@synnex.com)
-  - ### [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
 
-https://salesconnect.cisco.com/#/program/HUB-15740
+### 📫 [Email](rubend@synnex.com)
+  
+
 
 <details>
 <summary><h2> :information_source: Certifications & Specializations</h2></summary>
@@ -423,6 +424,8 @@ https://www.cisco.com/c/en/us/solutions/small-business/resource-center/networkin
 Cisco & Google Dev Site
 https://developer.cisco.com/site/google/
 
+  
+https://salesconnect.cisco.com/#/program/HUB-15740
 
 ## Cisco News
 
