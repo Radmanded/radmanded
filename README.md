@@ -16,6 +16,15 @@
 - ### I’m currently working on a one stop repository for your DevNet needs 
 -  ### We are working on customizing networks using APIs 
 - ### 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
+
+
+## Connect With Me👋🏼
+
+<p align="left">  
+<a href="https://www.linkedin.com/in/ruben-dedman/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
+<a href="https://www.youtube.com/c/RubenDedman" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
+<a href="https://leetcode.com/Astro_08/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" alt="Astro08" height="35" width="35"/></a>
+<a href="https://www.instagram.com/codes.astro/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 - ### 📫 How to reach us: 
   - ### [Email::email:](rubend@synnex.com)
   - ### [LinkedIn](https://www.linkedin.com/in/ruben-dedman/)
