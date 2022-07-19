@@ -30,9 +30,11 @@
 
 <br />
 
-- ### I’m currently working on a one stop repository for your DevNet needs 
--  ### We are working on customizing networks using APIs 
-- ### 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
+##  Current Projects 👨🏾‍💻
+
+- Establish one stop repository for all DevNet needs 
+- Customizing networks using APIs 
+- Building use-cases for Cisco product line
 
 
 ## Connect With Me👋🏼
@@ -44,7 +46,7 @@
 
 ### 📫 [Email](rubend@synnex.com)
   
-
+💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
 
 <details>
 <summary><h2> :information_source: Certifications & Specializations</h2></summary>
