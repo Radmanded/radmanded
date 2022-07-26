@@ -48,10 +48,9 @@
   
 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
 
+Keep
 <details>
 <summary><h2> :information_source: Certifications & Specializations</h2></summary>
-
-
 
 **Specialization Instructions**
   
@@ -62,12 +61,12 @@
 DCAUTO Exam
 </details>
 
+Keep
 <details>
 <summary><h2> :information_source: Partner Assistance Programs</h2></summary>
   
 **Ultimate Partner Resource**
 https://salesconnect.cloudapps.cisco.com/#/program/PAGE-17753
-  
   
 Partner Journey Notes
 gomsp@cisco.com 
@@ -79,9 +78,33 @@ https://developer.cisco.com/site/coi/
 https://salesconnect.cisco.com/#/program/PAGE-14323
   
 **Boss Asset Library**
+
+https://salesconnect.cisco.com/#/program/PAGE-17678
+
+### Partner Benefits
+  
+https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits.html?dtid=odiprc001129&ccid=cc000864
+  
+https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits/opportunities-across-the-lifecycle.html?dtid=odiprc001129&ccid=cc000864
+  
+**Build on Cisco**
+
+https://ciscopartnerjourneys.com/en/us/login
+  
+https://ciscopartnerjourneys.com/en/us/journeys/build-solutions
+  
+### Partner Stories
+
+https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/partner-case-studies.html?filter_type_of_partner=Independent%20Software%20Vendor
+  
+### Partner YouTube
+  
+https://www.youtube.com/playlist?list=PLF390A3A7152E5BF4
+
   
 </details>  
-  
+
+Keep
 <details>
 <summary><h2> :information_source: Digital Transformation</h2></summary>
 
@@ -99,6 +122,7 @@ https://www.sb-maturityassessment.com/
   
 </details>
 
+Keep
 <details>
 <summary><h2> :information_source: Black Belt</h2></summary>
  
@@ -122,6 +146,7 @@ https://ciscopartnerjourneys.com/en/us/login
   
 </details>
 
+Keep
 <details>
 <summary><h2> :information_source: Meraki</h2></summary>
   
@@ -189,6 +214,7 @@ https://andrecamillo.medium.com/getting-started-with-meraki-apis-7633a822a9da
 
 </details>
 
+Keep
 <details>
 <summary><h2> :information_source: Webex</h2></summary>
   
@@ -220,6 +246,7 @@ Food Ordering Project - https://www.mindmeld.com/docs/blueprints/food_ordering.h
   
 </details>
 
+Keep
 <details>
 <summary><h2> :information_source: IOS-XE </h2></summary>
   
@@ -243,7 +270,7 @@ https://github.com/tdorssers/ztp
   
  </details>
  
- 
+ Keep
 <details>
 <summary><h2> :information_source: Labs and Learning Resources</h2></summary>
   
@@ -325,7 +352,7 @@ https://www.youtube.com/watch?v=INGnD_586jwocs
   
 </details>
 
-
+Keep
 <details>
 <summary><h2> :information_source: DevNet Resources</h2></summary>
 
@@ -357,6 +384,7 @@ https://github.com/goabstract/Marketing-for-Engineers
   
 </details>
 
+Keep
 <details>
 <summary><h2> :information_source: Podcast </h2></summary>
 
@@ -364,6 +392,7 @@ https://packetpushers.net/podcast/
 
 </details>
 
+Keep
 <details>
 <summary><h2> :information_source: Blogs </h2></summary>
 
@@ -371,30 +400,7 @@ https://techblog.cisco.com/
 
 </details>
 
-<details>
-<summary><h2> :information_source: Partner Stories </h2></summary>
-  
-### Partner Benefits
-  
-https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits.html?dtid=odiprc001129&ccid=cc000864
-  
-https://www.cisco.com/c/en/us/partners/partner-with-cisco/benefits/opportunities-across-the-lifecycle.html?dtid=odiprc001129&ccid=cc000864
-  
-**Build on Cisco**
 
-https://ciscopartnerjourneys.com/en/us/login
-  
-https://ciscopartnerjourneys.com/en/us/journeys/build-solutions
-  
-### Partner Stories
-
-https://www.cisco.com/c/en/us/about/case-studies-customer-success-stories/partner-case-studies.html?filter_type_of_partner=Independent%20Software%20Vendor
-  
-### Partner YouTube
-  
-https://www.youtube.com/playlist?list=PLF390A3A7152E5BF4
-
-</details>  
   
 # APIs
 
