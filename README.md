@@ -12,12 +12,10 @@
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=netprog_basics&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/CiscoDevNet/yangsuite">
+<a href="https://github.com/Radmanded/devnet-digital-solutions-intgrator">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=yangsuite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
 ## Technologies⚙️
 
@@ -59,13 +57,12 @@
 <p align="left">  
 <a href="https://www.linkedin.com/in/ruben-dedman/" target="blank"><img src="https://img.icons8.com/color/35/000000/linkedin.png"/></a>
 <a href="https://www.youtube.com/c/RubenDedman" target="blank"><img src="https://img.icons8.com/color/35/000000/youtube-play.png"/></a>
-<a href="https://www.instagram.com/codes.astro/" target="blank"><img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/></a>
 
-### 📫 [Email](rubend@synnex.com)
+### 📫 [Email](rubendedman@gmail.com)
   
 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
 
-Keep
+
 <details>
 <summary><h2> :information_source: Certifications & Specializations</h2></summary>
 
@@ -78,7 +75,7 @@ Keep
 DCAUTO Exam
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: Partner Assistance Programs</h2></summary>
   
@@ -121,7 +118,7 @@ https://www.youtube.com/playlist?list=PLF390A3A7152E5BF4
   
 </details>  
 
-Keep
+
 <details>
 <summary><h2> :information_source: Digital Transformation</h2></summary>
 
@@ -139,7 +136,7 @@ https://www.sb-maturityassessment.com/
   
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: Black Belt</h2></summary>
  
@@ -163,7 +160,7 @@ https://ciscopartnerjourneys.com/en/us/login
   
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: Meraki</h2></summary>
   
@@ -231,7 +228,7 @@ https://andrecamillo.medium.com/getting-started-with-meraki-apis-7633a822a9da
 
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: Webex</h2></summary>
   
@@ -263,7 +260,7 @@ Food Ordering Project - https://www.mindmeld.com/docs/blueprints/food_ordering.h
   
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: IOS-XE </h2></summary>
   
@@ -287,7 +284,7 @@ https://github.com/tdorssers/ztp
   
  </details>
  
- Keep
+ 
 <details>
 <summary><h2> :information_source: Labs and Learning Resources</h2></summary>
   
@@ -369,7 +366,7 @@ https://www.youtube.com/watch?v=INGnD_586jwocs
   
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: DevNet Resources</h2></summary>
 
@@ -401,7 +398,7 @@ https://github.com/goabstract/Marketing-for-Engineers
   
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: Podcast </h2></summary>
 
@@ -409,7 +406,7 @@ https://packetpushers.net/podcast/
 
 </details>
 
-Keep
+
 <details>
 <summary><h2> :information_source: Blogs </h2></summary>
 
@@ -417,8 +414,9 @@ https://techblog.cisco.com/
 
 </details>
 
+<details>
+<summary><h2> :information_source: Needs organization </h2></summary>
 
-  
 # APIs
 
 https://www.ipify.org/
@@ -477,3 +475,8 @@ Step 4 Connect to the USB port with the following command followed by the router
 macbook:user$ screen /dev/tty.usbmodem1a21 9600
 To Disconnect the OS X USB Console from the Terminal Window
 Enter Ctrl+A followed by Ctrl+\
+
+</details>
+
+  
+
