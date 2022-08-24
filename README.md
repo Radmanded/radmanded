@@ -4,19 +4,22 @@
 <h3 align="left">Pinned Repos:</h3>
 <p align="left">
 
-<a href="https://github.com/CiscoDevNet/python_code_samples_network">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=python_code_samples_network&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Radmanded/webex-webapp-video">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=webex-webapp-video&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/CiscoDevNet/netprog_basics">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=netprog_basics&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Radmanded/partner-msp-roadmap">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=partner-msp-roadmap&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Radmanded/devnet-digital-solutions-intgrator">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=CiscoDevNet&repo=yangsuite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Radmanded/Webex-botkit-template">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=Webex-botkit-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-
+  <a href="https://github.com/Radmanded/Partner-Digital-Transformation">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=Partner-Digital-Transformation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+  
 ## Technologies⚙️
 
 ### Operating Systems 🖥
