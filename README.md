@@ -65,6 +65,20 @@
   
 💬 Ask me about DevNet, Cisco, APIs, Programmability, Automation, Design Thinking, and Digital Transformation
 
+  <details>
+<summary><h2> Setup Developer Environment </h2></summary>
+
+Linux
+- https://developer.cisco.com/learning/modules/dev-setup/dev-ubuntu/introduction/
+    
+macOS
+- https://developer.cisco.com/learning/modules/dev-setup/dev-mac/introduction/
+    
+Windows
+- https://developer.cisco.com/learning/modules/dev-setup/dev-win/introduction/
+    
+
+</details>
 
 <details>
 <summary><h2> :information_source: Certifications & Specializations</h2></summary>
