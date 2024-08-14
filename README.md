@@ -4,19 +4,7 @@
 <h3 align="left">Pinned Repos:</h3>
 <p align="left">
 
-<a href="https://github.com/Radmanded/webex-webapp-video">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=webex-webapp-video&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Radmanded/Netconf-Yang-Webex-Teams">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=Netconf-Yang-Webex-Teams&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/Radmanded/Webex-botkit-template">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=Webex-botkit-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-  <a href="https://github.com/Radmanded/Partner-Digital-Transformation">
+<a href="https://github.com/Radmanded/Partner-Digital-Transformation">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Radmanded&repo=Partner-Digital-Transformation&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
   
